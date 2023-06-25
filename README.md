@@ -2,7 +2,7 @@
 I have made a few changes to this wonderful Text Area editor 😁
 I Love this Editor !
 The Languages need a bit of work 😕
-I hope that Alexandre Demode (Alex-D) does not mind 🤔
+I hope that Alexandre Demode (Alex-D),{https://github.com/Alex-D/Trumbowyg} does not mind 🤔
 Just do this to get the Buttons to work & the Dropdowns, at the Bottom of your page.
 
 
