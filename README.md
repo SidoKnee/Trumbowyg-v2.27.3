@@ -5,6 +5,8 @@ The Languages need a bit of work 😕
 I hope that Alexandre Demode (Alex-D) does not mind 🤔
 Just do this to get the Buttons to work & the Dropdowns, at the Bottom of your page.
 
+
+<script src="{path}/js/trumbowyg.twc.js"></script>
 <script>
 $(document).ready(function(){
     $.trumbowyg.svgPath = '{path}/ui/icons.twc.svg';
